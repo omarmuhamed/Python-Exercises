@@ -1,0 +1,4 @@
+Username,Password,Name,E-mail,Birth Date,ID No,Status,Role
+admin,admin,Omar Mohamed,omar@erbakan.edu.tr,01-01-2000,99999999999,1,1
+staff,staff,Omar Mohamed,omar@erbakan.edu.tr,01-01-2000,99999999998,1,0
+suspended,suspended,Omar Mohamed,omar@erbakan.edu.tr,01-01-2000,99999999997,0,1

@@ -1,0 +1,8 @@
+ID,Type,Cashier,Amount,Date,Invoice,Items
+1,Sell,admin,582.0,2020-06-03 06:47:32,invoices/1591156052.rtf,4:1|8:2|,1
+2,Sell,admin,86.0,2020-06-03 06:48:30,invoices/1591156110.rtf,1:10|5:1|,1
+3,Sell,admin,43257.5,2020-05-28 06:49:03,invoices/1591156143.rtf,2:3|6:1|7:2|,0
+2,Refund,admin,86.0,2020-06-03 06:49:32,invoices/1591156110.rtf,1:10|5:1|,0
+1,Refund,staff,582.0,2020-06-03 06:52:16,invoices/1591156052.rtf,4:1|8:2|,0
+2,Sell,staff,420.0,2020-06-03 06:52:51,invoices/1591156371.rtf,8:20|,0
+3,Sell,staff,275.0,2020-06-03 06:53:19,invoices/1591156399.rtf,1:10|5:10|,0

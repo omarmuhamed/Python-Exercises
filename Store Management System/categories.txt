@@ -1,0 +1,5 @@
+ID,Name,Tax Percentage
+1,Fruit,20
+2,Cosmetic,30
+3,Alcohol,100
+4,Electronics,50
